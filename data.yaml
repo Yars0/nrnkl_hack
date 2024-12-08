@@ -1,0 +1,6 @@
+
+train: train_data/images/train
+val: train_data/images/val
+
+nc: 1  # Обновите количество классов (1 для загрязнения)
+names: ['contaminated']  # Обновите названия классов
